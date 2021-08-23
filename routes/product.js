@@ -12,7 +12,7 @@ const products = [
     price: 1399,
     productName: "Headphone",
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus magni quis perferendis incidunt nemo magnam.`,
-    buttonText: "Buy this",
+    buttonText: "Buy now",
   },
   {
     id: "1c493c17-3f28-4c08-b37b-6fc55af0cf8b",
@@ -24,7 +24,7 @@ const products = [
     price: 59999,
     productName: "I Phone",
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus magni quis perferendis incidunt nemo magnam.`,
-    buttonText: "Buy this",
+    buttonText: "Buy now",
   },
   {
     id: "a11aff93-5c9f-4c2c-8478-d1ef1d59c959",
@@ -36,7 +36,7 @@ const products = [
     price: 78000,
     productName: "Laptop",
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus magni quis perferendis incidunt nemo magnam.`,
-    buttonText: "Buy this",
+    buttonText: "Buy now",
   },
 ];
 
