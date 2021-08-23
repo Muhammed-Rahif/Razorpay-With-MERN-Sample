@@ -1,5 +1,5 @@
 {
-  "name": "razorpay-payment-gateway",
+  "name": "razorpay-with-mern-sample",
   "version": "1.0.0",
   "description": "This is example for razorpay payment gateway",
   "main": "server.js",
